@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">小贝课堂</string>
+    <string name="title_library">图书馆</string>
+    <string name="title_desk">我的书架</string>
+    <string name="title_person">我的</string>
+    <string name="login_tips">用户须知：应用功能目前暂未支持密码找回和其他登录方式，希望用户能够保存好自己的账号密码，避免因为账号密码丢失而导致保存的资源再也找不回，正常情况下，只要用户不卸载和升级应用，那么用户将会一直保持登录状态！</string>
+    <string name="account_hits">允许输入8到18个的字母或者数字</string>
+    <string name="password_hits">允许输入8到18个的字母或者数字</string>
+    <string name="alphanumeric_string">0123456789abcdefghljklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="desk_default_page_text">您还未收藏过任何视频列表，赶紧去收藏您的专属视频资源列表吧~</string>
+    <string name="feedback_hits">您可以在这里进行意见反馈，必要时还可以在这里留下您的联系方式~</string>
+    <string name="positive_energy_str">要做对国家、对人民、对社会有用的人!</string>
+    <string name="submit_str">提交</string>
+    <string name="developer_tab_str">开发者</string>
+    <string name="feedback_tab_str">意见反馈</string>
+    <string name="tips">提示信息</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+</resources>

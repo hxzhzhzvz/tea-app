@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/desk_default_page_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:gravity="center" />
+
+    <include
+        android:id="@+id/desk_course_subject_drawer"
+        layout="@layout/desk_video_list_recycler" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="account_maxLen">18</integer>
+    <integer name="password_maxLen">18</integer>
+    <integer name="feedback_max_len">255</integer>
+    <integer name="feedback_lines">6</integer>
+</resources>
